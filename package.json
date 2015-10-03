@@ -1,0 +1,8 @@
+{
+    "name": "fx-response",
+    "description": "feedexchange web/api responses",
+    "author": "sbansal",
+    "version": "0.0.1",
+    "main": "index.js",
+    "private": true
+}
